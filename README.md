@@ -1,5 +1,5 @@
 ## 👾 eightharsh's terminal
-Dive into my lab. Run these commands to explore my world.
+Dive into my lab. explore my world.
 
 ```zsh
 ~/code/labs ❯ whoami
