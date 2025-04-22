@@ -1,5 +1,7 @@
-# eightharsh @ terminal — fish shell
+## 👾 eightharsh's terminal
+Dive into my lab. Run these commands to explore my world.
 
+```zsh
 ~/code/labs ❯ whoami
 eightharsh
 
