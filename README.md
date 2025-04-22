@@ -1,29 +1,28 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=harsh-eighth)
-# eightharsh — fish shell
+# eightharsh @ terminal — fish shell
 
-~/labs/code ❯ whoami
-harsh
+~/code/labs ❯ whoami
+eightharsh
 
-~/labs/code ❯ echo "90-day obsession: outwork talent & hard work"
-90-day obsession: outwork talent & hard work
+~/code/labs ❯ echo $MANTRA
+"90-day obsession: outwork talent & hard work"
 
-~/labs/code ❯ curl eightharsh.com
-> personal site → articles · notes · projects · talks · tools
+~/code/labs ❯ curl -s eightharsh.com
+> site live: articles · projects · notes · talks · tools
 
-~/labs/code ❯ curl eightharsh.com/terminal
-> launching interactive terminal...
+~/code/labs ❯ curl -s eightharsh.com/terminal
+> booting interactive shell...
 
-~/labs/code ❯ ls
-dino-clone      # 🕹️ pygame game clone with rain + music
-search-engine   # 🔍 full-text search from scratch
-eightharsh.com  # 🌐 next.js + mdx + redis
-notes           # 📓 algorithms · systems · cs theory
-tools           # 🛠️ terminal & web dev utilities
+~/code/labs ❯ ls -l
+dino-clone      # 🕹️ pygame dino w/ rain fx + lo-fi beats
+search-engine   # 🔍 custom full-text search, no deps
+eightharsh.com  # 🌐 next.js + mdx + redis, vercel deploy
+notes           # 📓 algo deep dives · systems · cs theory
+tools           # 🛠️ cli scripts + web dev utils
 
-~/labs/code ❯ cat now
-learning: next.js · redis · mdx
-building: browser engine prototype
-reading: designing data-intensive applications
-mode: obsessed ☕
+~/code/labs ❯ cat now
+learning: next.js@14 · redis · mdx
+building: browser engine proto
+reading: designing data-intensive apps
+vibe: obsessed ☕ [hustle mode]
 
-~/labs/code ❯ exit
+~/code/labs ❯ exit
