@@ -11,7 +11,4 @@ eightharsh
 ~/code/labs ❯ curl -s eightharsh.com
 > site live: articles · projects 
 
-
-
-
 ~/code/labs ❯ exit
