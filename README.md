@@ -2,7 +2,6 @@ Think in pipes. Do one thing well.
 <samp>
 Check out my website → <a href="https://eightharsh.com/">eightharsh.com</a>
 </samp>
-
 <br><br> 
 
 <p>
