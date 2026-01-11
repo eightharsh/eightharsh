@@ -17,5 +17,7 @@ I follow the **Unix philosophy**.
   </a>
 </p>
 
-🌐 https://eightHarsh.com
 
+<samp>
+  check out my website -> <a href="https://www.eightharsh.com">eightharsh.com</a>
+</samp>
