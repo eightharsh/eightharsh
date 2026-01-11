@@ -3,6 +3,18 @@
 Think in pipes. Do one thing well.  
 I follow the **Unix philosophy**.
 
+
+
+
+
+
+<samp>
+  check out my website -> <a href="https://www.eightharsh.com">eightharsh.com</a>
+</samp>
+
+
+
+
 <p>
   <a href="https://archlinux.org">
     <img src="assets/buttons/archlinux.gif" alt="Arch Linux">
@@ -18,6 +30,3 @@ I follow the **Unix philosophy**.
 </p>
 
 
-<samp>
-  check out my website -> <a href="https://www.eightharsh.com">eightharsh.com</a>
-</samp>
