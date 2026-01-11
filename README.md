@@ -1,16 +1,21 @@
-# eightharsh (HARSH)
+# eightharsh 
 
-Builder. Lifelong student.
-
+Think in pipes. Do one thing well.  
+I follow the **Unix philosophy**.
 
 <p>
-  <img src="https://cyber.dabamos.de/88x31/archlinux.gif" alt="Arch Linux">
-  <img src="https://cyber.dabamos.de/88x31/macintosh.gif" alt="Macintosh">
-  <img src="https://cyber.dabamos.de/88x31/vim.gif" alt="Vim">
-    <img src="https://raw.githubusercontent.com/ghostty-org/ghostty/main/assets/88x31/ghostty.gif" alt="Ghostty Terminal">
+  <a href="https://archlinux.org">
+    <img src="assets/buttons/archlinux.gif" alt="Arch Linux">
+  </a>
 
+  <a href="https://www.apple.com/macintosh/">
+    <img src="assets/buttons/macintosh.gif" alt="Macintosh">
+  </a>
 
-
+  <a href="https://www.vim.org">
+    <img src="assets/buttons/vim.gif" alt="Vim">
+  </a>
 </p>
 
 🌐 https://eightHarsh.com
+
