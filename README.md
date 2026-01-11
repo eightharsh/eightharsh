@@ -16,5 +16,9 @@ Check out my website → <a href="https://eightharsh.com/">eightharsh.com</a>
   <a href="https://www.vim.org" target="_blank">
     <img src="assets/buttons/vim.gif" alt="Vim">
   </a>
+
+  <a href="https://eightharsh.com" target="_blank">
+    <img src="assets/buttons/eightharsh.gif" alt="eightharsh">
+  </a>
 </p>
 
