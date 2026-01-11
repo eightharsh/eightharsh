@@ -4,10 +4,12 @@ Builder. Lifelong student.
 
 ### 🖥️ Systems
 
-![Arch Linux](https://img.shields.io/badge/ARCH_LINUX-000000?style=flat-square&logo=archlinux&logoColor=00ffff)
-![macOS](https://img.shields.io/badge/macOS-111111?style=flat-square&logo=apple&logoColor=white)
-![Terminal](https://img.shields.io/badge/TERMINAL-000000?style=flat-square&logo=gnu-bash&logoColor=00ff00)
-![Neovim](https://img.shields.io/badge/NEOVIM-003300?style=flat-square&logo=neovim&logoColor=00ff00)
+<p>
+  <img src="https://cyber.dabamos.de/88x31/archlinux.gif" alt="Arch Linux">
+  <img src="https://cyber.dabamos.de/88x31/apple.gif" alt="macOS">
+  <img src="https://cyber.dabamos.de/88x31/linux.gif" alt="Linux">
+  <img src="https://cyber.dabamos.de/88x31/terminal.gif" alt="Terminal">
+  <img src="https://cyber.dabamos.de/88x31/vim.gif" alt="Vim">
+</p>
 
 🌐 https://eightHarsh.com
-
