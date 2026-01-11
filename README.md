@@ -18,7 +18,7 @@ Check out my website → <a href="https://eightharsh.com/">eightharsh.com</a>
   </a>
 
   <a href="https://eightharsh.com" target="_blank">
-    <img src="assets/buttons/eightharsh.gif" alt="eightharsh">
+    <img src="assets/buttons/eightharsh.gif" alt="eightharsh" width="88" height="31">
   </a>
 </p>
 
