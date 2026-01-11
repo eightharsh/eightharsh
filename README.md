@@ -9,7 +9,7 @@ I follow the **Unix philosophy**.
 
 
 <samp>
-  check out my website -> <a href="https://www.eightharsh.com">eightharsh.com</a>
+  check out my website -> <a href="https://eightharsh.com/">eightharsh.com</a>
 </samp>
 
 
