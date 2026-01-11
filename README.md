@@ -8,7 +8,7 @@ I follow the **Unix philosophy**.
     <img src="assets/buttons/archlinux.gif" alt="Arch Linux">
   </a>
 
-  <a href="https://www.apple.com/macintosh/">
+  <a href="https://www.apple.com/">
     <img src="assets/buttons/macintosh.gif" alt="Macintosh">
   </a>
 
