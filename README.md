@@ -1,4 +1,3 @@
-# eightharsh
 
 Think in pipes. Do one thing well.  
 
