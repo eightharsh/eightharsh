@@ -2,14 +2,15 @@
 
 Builder. Lifelong student.
 
-### 🖥️ Systems
 
 <p>
   <img src="https://cyber.dabamos.de/88x31/archlinux.gif" alt="Arch Linux">
-  <img src="https://cyber.dabamos.de/88x31/apple.gif" alt="macOS">
-  <img src="https://cyber.dabamos.de/88x31/linux.gif" alt="Linux">
-  <img src="https://cyber.dabamos.de/88x31/terminal.gif" alt="Terminal">
+  <img src="https://cyber.dabamos.de/88x31/macintosh.gif" alt="Macintosh">
   <img src="https://cyber.dabamos.de/88x31/vim.gif" alt="Vim">
+    <img src="https://raw.githubusercontent.com/ghostty-org/ghostty/main/assets/88x31/ghostty.gif" alt="Ghostty Terminal">
+
+
+
 </p>
 
 🌐 https://eightHarsh.com
